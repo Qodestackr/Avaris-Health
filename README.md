@@ -22,7 +22,7 @@ Pharmacies in Kenya are fighting three plagues: **stockouts**, **fake drugs**, a
 |---------|-------------|---------------|  
 | **AI Inventory Prophet** | Predicts when malaria meds will vanish. | Still confused by your 'misc' Excel column |  
 | **Counterfeit Catcher** | Scans drug packaging via WhatsApp. | Accurate, unless the photo includes someone’s lunch. |  
-| **M-Pesa Roulette** | Auto-reorders meds via Safaricom’s API. | Works 60% of the time. |  
+| **M-Pesa Roulette** | Auto-reorders meds via Ratiba API. | Works 60% of the time. The other 40%? Safari-complex. |  
 | **NHIF Whisperer** | Exports reports for gov’t audits. | *“Converts PDFs to CSV. Not responsible for existential dread.”* |  
 
 ---
