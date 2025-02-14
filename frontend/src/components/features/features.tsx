@@ -25,7 +25,7 @@ export default function Features() {
                                 Is Manual Inventory Management Costing Your Pharmacy?
                             </h2>
                             <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                                In today's fast-paced healthcare market, 70% of pharmacies struggle with stockouts and expired
+                                In today&quot;s fast-paced healthcare market, 70% of pharmacies struggle with stockouts and expired
                                 medications. See how Avaris Health transforms your operations with real-time insights.
                             </p>
                         </div>
@@ -122,8 +122,7 @@ export default function Features() {
                                 </div>
                                 <div>
                                     <blockquote className="text-gray-500 italic mb-2">
-                                        "Avaris Health has transformed how we manage our pharmacy chain. The real-time insights and
-                                        automated ordering have increased our efficiency by 40%."
+                                        {"Avaris Health has transformed how we manage our pharmacy chain. The real-time insights and automated ordering have increased our efficiency by 40%."}
                                     </blockquote>
                                     <div className="font-semibold">Dr. Benjamin Hinga</div>
                                     <div className="text-sm text-gray-500">CEO, Bliss Healthcare</div>
