@@ -15,7 +15,7 @@ export default function Page() {
                 <span className="text-teal-600">Operations</span>
               </h1>
               <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                Avaris Health helps you prevent stockouts, detect counterfeits, and streamline compliance—all while
+                Never Miss a Sale Due to Empty Shelves: Avaris Health helps you prevent stockouts, detect counterfeits, and streamline compliance—all while
                 boosting your bottom line with AI-powered insights.
               </p>
             </div>
