@@ -1,0 +1,63 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@openreplay/tracker": "^15.0.3",
+    "@radix-ui/react-accordion": "^1.2.3",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@react-google-maps/api": "^2.20.6",
+    "@react-pdf/renderer": "^4.2.1",
+    "@sentry/nextjs": "^9.1.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "@tanstack/react-query": "^5.66.0",
+    "@tanstack/react-table": "^8.21.2",
+    "@tiptap/extension-color": "^2.11.5",
+    "@tiptap/extension-list-item": "^2.11.5",
+    "@tiptap/extension-placeholder": "^2.11.5",
+    "@tiptap/extension-text-style": "^2.11.5",
+    "@tiptap/react": "^2.11.5",
+    "@tiptap/starter-kit": "^2.11.5",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "drizzle-orm": "^0.39.3",
+    "lucide-react": "^0.475.0",
+    "luxon": "^3.5.0",
+    "meilisearch": "^0.48.2",
+    "nanoid": "^5.0.9",
+    "next": "15.1.7",
+    "posthog-js": "^1.217.4",
+    "qrcode.react": "^4.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.1",
+    "socket.io": "^4.8.1",
+    "tailwind-merge": "^3.0.1",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.24.2",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@sentry/webpack-plugin": "^3.1.2",
+    "@types/node": "^20.17.19",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "@sentry/cli"
+    ]
+  }
+}
