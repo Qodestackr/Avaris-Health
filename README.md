@@ -3,8 +3,8 @@
 
 ---
 
-Pharmacies in Kenya are fighting three plagues: **stockouts**, **fake drugs**, and **Excel files older than your aunt’s wedding gown**. Avaris Health is an AI toolkit that:  
-1. **Predicts Stockouts**: Like a weather app, but for amoxicillin. Just don't ask it about panadol during exam season.
+Pharmacies in Kenya are fighting three plagues: **stockouts**, **fake drugs**, and **spreadsheets that should have retired with Internet Explorer**. Avaris Health is an AI toolkit that:  
+1. **Predicts Stockouts**: Like a weather app, but for amoxicillin. Just don’t expect it to find Panadol when stress-buying season hits.
 2. **Spots Counterfeit Meds**: Trained on blurry WhatsApp photos of *“genuine fake”* packaging. Yes, even those ones from your supplier who swears "ni original tu bana".
 3. **Sends SOS Alerts**: “Boss, we’re out of paracetamol” → auto-texts your supplier (and your ex, by accident).  
 
